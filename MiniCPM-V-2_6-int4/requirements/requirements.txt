@@ -1,0 +1,4 @@
+bitsandbytes
+flash-attn
+nest_asyncio
+pyngrok
